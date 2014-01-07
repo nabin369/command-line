@@ -1,0 +1,4 @@
+This command counts the number of lines/words/charactes in a file
+
+For example:
+wc file - count number of lines/words/characters in file
