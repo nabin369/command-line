@@ -1,0 +1,4 @@
+This command searches things inside file
+
+For example: 
+grep 'keyword' file - searchs a file for keyword
