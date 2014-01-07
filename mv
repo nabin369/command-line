@@ -1,0 +1,3 @@
+This command moves files and folder to the desired destination
+
+For example: mv somefile(file you want to move) someWhere(destination)
